@@ -1,0 +1,79 @@
+.NavBarC{
+    background-color: #0aad0a;
+}
+
+.AllDepartment .btn{
+    background-color: #0aad0a;
+}
+.CoroselSlide{
+    position: relative;
+}
+
+
+.Grocery p{
+    color: #5c6c75;
+    font-size: 20px;
+}
+
+.Shipping p{
+    color: #5c6c75;
+    font-size: 20px;
+}
+.Shipping span{
+    color: #0aad0a;
+}
+
+.FeaturesCateogary .card:hover{
+    border-color: #0aad0a;
+    box-shadow: 0 4px 8px 0 ;
+}
+
+.PopularProducts .card:hover{
+    border-color: #0aad0a;
+    box-shadow: 0 4px 8px 0 ;
+}
+.PopularProducts .btn{
+    background-color: #0aad0a;
+}
+
+.BestSells .card:hover{
+    border-color: #0aad0a;
+    box-shadow: 0 4px 8px 0 ;
+}
+
+.BestSells .btn{
+    background-color: #0aad0a;
+}
+ 
+.Policy{
+    color: #0aad0a;
+}
+
+.footer{
+    background-color: #f0f3f2;
+}
+
+.footer a{
+    color: #5c6c75;
+}
+.footer a:hover{
+    color: #0aad0a;
+}
+
+.Aboutus{
+    font-family: Roboto;
+}
+.HelpCenter{
+    color: #0aad0a;
+}
+
+.OurLeadership .card{
+    background-color: rgb(248, 249, 250);
+}
+
+.Contactus{
+    font-family: Roboto;
+}
+.Contactus .btn{
+    background-color: #0aad0a;
+}
